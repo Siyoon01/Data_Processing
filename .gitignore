@@ -1,0 +1,7 @@
+node_modules/
+.DS_Store
+logs/
+*.log
+DataProcessing5/node_modules/
+DataProcessing5/build/
+.env
