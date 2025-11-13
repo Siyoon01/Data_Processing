@@ -12,8 +12,8 @@ const PORT = process.env.PORT || 4000;
 const masterFilePath = path.join(__dirname, 'etfMaster.json');
 
 // Naver API 자격 증명 (사전 준비에서 받은 값)
-const NAVER_CLIENT_ID = 'MdGTLV6uVXhe1aRAZhsO'; // <--- 여기에 발급받은 ID 입력
-const NAVER_CLIENT_SECRET = 'ItM91fXlcc'; // <--- 여기에 발급받은 Secret 입력
+const NAVER_CLIENT_ID = ''; // <--- 여기에 발급받은 ID 입력
+const NAVER_CLIENT_SECRET = ''; // <--- 여기에 발급받은 Secret 입력
 
 /**
  * Naver API에서 실시간 ETF 데이터를 가져오는 함수
